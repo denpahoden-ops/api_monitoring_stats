@@ -1,4 +1,4 @@
-# TON Status
+# TON Status sinebot tehnology 
 
 Service for monitoring the infrastructure around the TON blockchain.
 
